@@ -1,2 +1,9 @@
-# Password-Strength-Checker
-A Python-based password strength checker with crack time estimation and strong password suggestion.
+# Password Strength Checker
+
+A Python project that analyzes password strength and estimates crack time.
+
+## Features
+
+- Password strength detection
+- Crack time estimation
+- Strong password suggestion
